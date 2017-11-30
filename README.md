@@ -1,6 +1,15 @@
-# PublishAngular5
+# Angular5-Quickstart Skeleton
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
+
+# Features
+
+- Bootstrap 4 (beta.2)   <br>
+- Angular Animations     <br>
+- AuthGuard              <br>
+- FakeBackend            <br>
+- Login(LocalStorage)    <br>
+- Register (LocalStorage)<br>
 
 ## Development server
 
