@@ -11,6 +11,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Login(LocalStorage)    <br>
 - Register (LocalStorage)<br>
 
+# Requirements
+
+- npm package loader <br>
+- nodejs <br>
+
+# Installation
+
+- Download or clone repository <br>
+- go into the root of the downloaded repository <br>
+- open console: Run `npm install` to install required dependencies<br>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
