@@ -4,12 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Features
 
-- Bootstrap 4 (beta.2)   <br>
-- Angular Animations     <br>
-- AuthGuard              <br>
-- FakeBackend            <br>
-- Login(LocalStorage)    <br>
-- Register (LocalStorage)<br>
+- Bootstrap 4 (beta.2)      <br>
+- Angular Animations        <br>
+- AuthGuard                 <br>
+- FakeBackend               <br>
+- Login(LocalStorage)       <br>
+- Register (LocalStorage)   <br>
+- 404 Page (Page not found) <br>
 
 # Requirements
 
